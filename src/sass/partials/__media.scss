@@ -61,7 +61,15 @@
   .home-wrapper {
     max-height: 3000px;
   }
+  .badge{
+      position: absolute;
+      margin-left: 50%;
+    }
 
+    .container {
+      margin: 80px auto;
+      width: 90%;
+    }
 
   //button
   .nav-ul {
@@ -73,7 +81,6 @@
     border-radius: 20px;
     padding: 30px;
     margin: 0 20px;
-
 
 
     li{
